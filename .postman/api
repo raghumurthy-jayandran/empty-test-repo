@@ -11,4 +11,5 @@ rootDirectory = postman/collections
 rootDirectory = postman/schemas
 
 [relations.apiDefinition.metaData]
-type = proto_3
+type = proto:3
+rootFiles[] = index.proto
